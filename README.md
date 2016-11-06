@@ -1,2 +1,0 @@
-# JenkinsPipelineAssignment
-Jenkings Assignment
